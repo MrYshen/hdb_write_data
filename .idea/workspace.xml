@@ -97,10 +97,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="2020-1-15 21:25:35&#10;writeData" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="507" y="113" key="CommitChangelistDialog2" timestamp="1579094889891">
+    <state x="507" y="113" key="CommitChangelistDialog2" timestamp="1579095001306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="507" y="113" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579094889891" />
+    <state x="507" y="113" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579095001306" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1579094582457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -140,6 +140,10 @@
     </state>
     <state x="640" y="343" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579094646455" />
     <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579091019393" />
+    <state x="710" y="311" key="git4idea.merge.GitPullDialog" timestamp="1579094980765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="311" key="git4idea.merge.GitPullDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579094980765" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578993907250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
